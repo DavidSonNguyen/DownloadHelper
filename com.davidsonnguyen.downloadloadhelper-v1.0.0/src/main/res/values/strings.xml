@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadHelper</string>
+    <string name="percent">%</string>
+    <string name="request_permission">You need to allow access to Storage</string>
+    <string name="allow_permission">Ok</string>
+    <string name="deny_permission">Cancel</string>
+</resources>
